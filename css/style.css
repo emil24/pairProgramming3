@@ -1,0 +1,29 @@
+
+#main img{
+	height: 40px;
+}
+#main a{
+	font-size: 18px;
+}
+#slider img{
+	width: 100%;
+}
+#setting{
+	text-align: center;
+	background-color: white;
+	height: auto;
+	padding: 2em 0;
+}
+#setting h3{
+	margin: 1em 0;
+}
+#setting i{
+	font-size: 48px;
+}
+#setting p{
+	padding: 0 2em;
+}
+#setting .col-md-4 .sss{
+
+	border: 2px solid black;
+}
